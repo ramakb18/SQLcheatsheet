@@ -1,5 +1,3 @@
-Absolutely! Here's a complete and detailed SQL cheatsheet in Markdown format for GitHub:
-
 ```markdown
 # SQL Full Cheatsheet
 
@@ -361,4 +359,3 @@ The four types of SQL commands are:
 
 ---
 
-Feel free to copy and paste this markdown into a GitHub repository `.md` file to create a comprehensive SQL cheatsheet!
